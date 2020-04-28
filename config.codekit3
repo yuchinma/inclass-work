@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "256DEAD7-5E9F-4CC0-B940-8FF28DA9ED5A"
+		"uuidString": "1B950A3E-E382-4118-963D-EC8F4EBFD7DC"
 		}
 	],
 "creatorBuild": "32001",
@@ -19,91 +19,144 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/img/footer/logo.svg": {
+	"/deploy/img/footer/facebook.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/deploy/img/footer/logo.svg",
+		"oAP": "/deploy/img/footer/facebook.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/deploy/img/section-1/hero.png": {
-		"ft": 32768,
-		"iS": 828744,
-		"oA": 0,
-		"oAP": "/deploy/img/section-1/hero.png",
+	"/deploy/img/footer/instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/deploy/img/footer/instagram.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 52780316221407,
+		"prP": 0
 		},
-	"/deploy/img/section-2/waterfall.png": {
-		"ft": 32768,
-		"iS": 644626,
-		"oA": 0,
-		"oAP": "/deploy/img/section-2/waterfall.png",
+	"/deploy/img/footer/twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/deploy/img/footer/twitter.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"plM": 52780316221407,
+		"prP": 0
 		},
-	"/deploy/img/section-3/beach.png": {
-		"ft": 32768,
-		"iS": 1198789,
-		"oA": 0,
-		"oAP": "/deploy/img/section-3/beach.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/deploy/img/section-4/fireshow.jpg": {
+	"/deploy/img/section-1/hero.jpg": {
 		"ft": 16384,
-		"iS": 264466,
+		"iS": 337746,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-4/fireshow.jpg",
+		"oAP": "/deploy/img/section-1/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-4/food.jpg": {
+	"/deploy/img/section-2/hero.png": {
+		"ft": 32768,
+		"iS": 21385,
+		"oA": 0,
+		"oAP": "/deploy/img/section-2/hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-3/grid-bot.jpg": {
 		"ft": 16384,
-		"iS": 236560,
+		"iS": 185897,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-4/food.jpg",
+		"oAP": "/deploy/img/section-3/grid-bot.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/section-4/temple.png": {
-		"ft": 32768,
-		"iS": 913400,
+	"/deploy/img/section-4/hero.jpg": {
+		"ft": 16384,
+		"iS": 189024,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-4/temple.png",
+		"oAP": "/deploy/img/section-4/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"/deploy/img/section-5/footer.png": {
-		"ft": 32768,
-		"iS": 181901,
+	"/deploy/img/section-5/gallery-1.jpg": {
+		"ft": 16384,
+		"iS": 173696,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-5/footer.png",
+		"oAP": "/deploy/img/section-5/gallery-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-5/gallery-2.jpg": {
+		"ft": 16384,
+		"iS": 47796,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/gallery-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-5/gallery-3.jpg": {
+		"ft": 16384,
+		"iS": 100411,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/gallery-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-5/gallery-4.jpg": {
+		"ft": 16384,
+		"iS": 170027,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/gallery-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-5/gallery-5.jpg": {
+		"ft": 16384,
+		"iS": 70439,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/gallery-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-5/gallery-6.jpg": {
+		"ft": 16384,
+		"iS": 115782,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/gallery-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/deploy/index.html": {
@@ -139,7 +192,7 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/dev/footer.html",
-		"oF": 0
+		"oF": 1
 		},
 	"/dev/index.kit": {
 		"cB": 0,
@@ -290,6 +343,71 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/dev/scss/sections/_section-1.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-1.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/dev/scss/sections/_section-2.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-2.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/dev/scss/sections/_section-3.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-3.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/dev/scss/sections/_section-4.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-4.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/dev/scss/sections/_section-5.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-5.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/dev/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -298,8 +416,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/dev/scss/styles.css",
-		"oF": 0,
+		"oAP": "/deploy/css/styles.css",
+		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		},
@@ -325,7 +443,7 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/dev/section-3.html",
-		"oF": 0
+		"oF": 1
 		},
 	"/dev/section-4.kit": {
 		"cB": 0,
@@ -333,7 +451,7 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/dev/section-4.html",
-		"oF": 0
+		"oF": 1
 		},
 	"/dev/section-5.kit": {
 		"cB": 0,
@@ -341,7 +459,7 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/dev/section-5.html",
-		"oF": 0
+		"oF": 1
 		},
 	"/README.md": {
 		"cB": 0,
@@ -368,10 +486,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 608755935.77959096,
+	"creationDate": 608749270.97778797,
 	"displayValue": "inclass-work",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_purple",
+	"iconImageName": "brackets-pale",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
