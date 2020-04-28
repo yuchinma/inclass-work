@@ -461,14 +461,24 @@ footer {
       #section-5 ul {
         grid-template-columns: repeat(2, 1fr);
         grid-template-areas: "g1 g3" "g1 g7" "g5 g6"; } }
+    @media (min-width: 992px) {
+      #section-5 ul {
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-areas: "g1 g2 g3" "g1 g7 g4" "g6 g5 g4"; } }
     #section-5 ul li img {
       width: 100%; }
     @media (min-width: 768px) {
       #section-5 ul #g1 {
         grid-area: g1; } }
     @media (min-width: 768px) {
+      #section-5 ul #g2 {
+        grid-area: g2; } }
+    @media (min-width: 768px) {
       #section-5 ul #g3 {
         grid-area: g3; } }
+    @media (min-width: 768px) {
+      #section-5 ul #g4 {
+        grid-area: g4; } }
     @media (min-width: 768px) {
       #section-5 ul #g5 {
         grid-area: g5; } }

@@ -22,6 +22,15 @@
             "g5 g6";
         }
 
+        @include lg{
+            grid-template-columns: repeat(3, 1fr);
+
+            grid-template-areas: 
+            "g1 g2 g3"
+            "g1 g7 g4"
+            "g6 g5 g4";
+        }
+
         li{
             img{
                 width: 100%;
@@ -34,9 +43,21 @@
             }
         }
 
+        #g2{
+            @include md{
+                grid-area: g2;
+            }
+        }
+
         #g3{
             @include md{
                 grid-area: g3;
+            }
+        }
+
+        #g4{
+            @include md{
+                grid-area: g4;
             }
         }
 
