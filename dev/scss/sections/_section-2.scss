@@ -22,6 +22,18 @@
                     grid-area: section-2-intro;
                 }
             }
+
+            @include lg{
+                display: grid;
+                grid-template-columns: 20% auto 20%;
+                grid-template-areas: ". section-2-intro .";
+            }
+
+            #section-2-intro-content{
+                @include lg{
+                    grid-area: section-2-intro;
+                }
+            }
         }
 
         #section-2-date{
@@ -34,6 +46,32 @@
             #section-2-date-content{
                 @include md{
                     grid-area: section-2-date;
+                }
+            }
+
+            @include lg{
+                display: grid;
+                grid-template-columns: 25% auto 25%;
+                grid-template-areas: ". section-2-date .";
+            }
+
+            #section-2-date-content{
+                @include lg{
+                    grid-area: section-2-date;
+                }
+            }
+        }
+
+        #section-2-body{
+            @include lg{
+                display: grid;
+                grid-template-columns: 20% auto 20%;
+                grid-template-areas: ". section-2-body .";
+            }
+            
+            #section-2-body-content{
+                @include lg{
+                    grid-area: section-2-body;
                 }
             }
         }
